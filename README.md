@@ -11,7 +11,7 @@
 
 ## Requirements 📋
 
-- Python 3. 0
+- Python 3.0
 
 ## Setup ⚙️
 
